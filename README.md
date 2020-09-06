@@ -1,4 +1,4 @@
-### Mblog 开源Java博客系统, 支持多用户, 支持切换主题
+### Y-blog 开源Java博客系统, 支持多用户, 支持切换主题
 
 [![Author](https://img.shields.io/badge/author-landy-green.svg?style=flat-square)](http://mtons.com)
 [![JDK](https://img.shields.io/badge/jdk-1.8-green.svg?style=flat-square)](#)
@@ -33,11 +33,7 @@
  IDE得装lombok插件
 ```
 
-- 文档: [说明文档](https://langhsu.github.io/mblog/#/)
-- 官网: [官网地址](http://www.mtons.com)
-- 模板使用: [传送门](https://cuiweiboy.github.io/#/)
-- QQ交流群：378433412
-    
+
 ### 版本(3.5)更新内容：
     1. 文件存储目录可配置, 见 site.location, 默认为 user.dir
     2. 支持在${site.location}/storage/templates 目录下扩展自己的主题(${site.location}具体位置见启动日志)
